@@ -1,0 +1,14 @@
+C:\Codding\THE C# PLAYER'S GUIDE\PART 2 - OBJECT-ORIENTED PROGRAMMING\Level 18 - Vin Flethcer's Arrows\obj\Debug\net8.0\Level 18 - Vin Flethcer's Arrows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codding\THE C# PLAYER'S GUIDE\PART 2 - OBJECT-ORIENTED PROGRAMMING\Level 18 - Vin Flethcer's Arrows\obj\Debug\net8.0\Level 18 - Vin Flethcer's Arrows.AssemblyInfoInputs.cache
+C:\Codding\THE C# PLAYER'S GUIDE\PART 2 - OBJECT-ORIENTED PROGRAMMING\Level 18 - Vin Flethcer's Arrows\obj\Debug\net8.0\Level 18 - Vin Flethcer's Arrows.AssemblyInfo.cs
+C:\Codding\THE C# PLAYER'S GUIDE\PART 2 - OBJECT-ORIENTED PROGRAMMING\Level 18 - Vin Flethcer's Arrows\obj\Debug\net8.0\Level 18 - Vin Flethcer's Arrows.csproj.CoreCompileInputs.cache
+C:\Codding\THE C# PLAYER'S GUIDE\PART 2 - OBJECT-ORIENTED PROGRAMMING\Level 18 - Vin Flethcer's Arrows\bin\Debug\net8.0\Level 18 - Vin Flethcer's Arrows.exe
+C:\Codding\THE C# PLAYER'S GUIDE\PART 2 - OBJECT-ORIENTED PROGRAMMING\Level 18 - Vin Flethcer's Arrows\bin\Debug\net8.0\Level 18 - Vin Flethcer's Arrows.deps.json
+C:\Codding\THE C# PLAYER'S GUIDE\PART 2 - OBJECT-ORIENTED PROGRAMMING\Level 18 - Vin Flethcer's Arrows\bin\Debug\net8.0\Level 18 - Vin Flethcer's Arrows.runtimeconfig.json
+C:\Codding\THE C# PLAYER'S GUIDE\PART 2 - OBJECT-ORIENTED PROGRAMMING\Level 18 - Vin Flethcer's Arrows\bin\Debug\net8.0\Level 18 - Vin Flethcer's Arrows.dll
+C:\Codding\THE C# PLAYER'S GUIDE\PART 2 - OBJECT-ORIENTED PROGRAMMING\Level 18 - Vin Flethcer's Arrows\bin\Debug\net8.0\Level 18 - Vin Flethcer's Arrows.pdb
+C:\Codding\THE C# PLAYER'S GUIDE\PART 2 - OBJECT-ORIENTED PROGRAMMING\Level 18 - Vin Flethcer's Arrows\obj\Debug\net8.0\Level 18 - Vin Flethcer's Arrows.dll
+C:\Codding\THE C# PLAYER'S GUIDE\PART 2 - OBJECT-ORIENTED PROGRAMMING\Level 18 - Vin Flethcer's Arrows\obj\Debug\net8.0\refint\Level 18 - Vin Flethcer's Arrows.dll
+C:\Codding\THE C# PLAYER'S GUIDE\PART 2 - OBJECT-ORIENTED PROGRAMMING\Level 18 - Vin Flethcer's Arrows\obj\Debug\net8.0\Level 18 - Vin Flethcer's Arrows.pdb
+C:\Codding\THE C# PLAYER'S GUIDE\PART 2 - OBJECT-ORIENTED PROGRAMMING\Level 18 - Vin Flethcer's Arrows\obj\Debug\net8.0\Level 18 - Vin Flethcer's Arrows.genruntimeconfig.cache
+C:\Codding\THE C# PLAYER'S GUIDE\PART 2 - OBJECT-ORIENTED PROGRAMMING\Level 18 - Vin Flethcer's Arrows\obj\Debug\net8.0\ref\Level 18 - Vin Flethcer's Arrows.dll

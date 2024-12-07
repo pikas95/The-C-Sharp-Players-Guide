@@ -1,0 +1,14 @@
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 7 - The Dominion of Kings\bin\Debug\net8.0\Level 7 - The Dominion of Kings.exe
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 7 - The Dominion of Kings\bin\Debug\net8.0\Level 7 - The Dominion of Kings.deps.json
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 7 - The Dominion of Kings\bin\Debug\net8.0\Level 7 - The Dominion of Kings.runtimeconfig.json
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 7 - The Dominion of Kings\bin\Debug\net8.0\Level 7 - The Dominion of Kings.dll
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 7 - The Dominion of Kings\bin\Debug\net8.0\Level 7 - The Dominion of Kings.pdb
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 7 - The Dominion of Kings\obj\Debug\net8.0\Level 7 - The Dominion of Kings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 7 - The Dominion of Kings\obj\Debug\net8.0\Level 7 - The Dominion of Kings.AssemblyInfoInputs.cache
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 7 - The Dominion of Kings\obj\Debug\net8.0\Level 7 - The Dominion of Kings.AssemblyInfo.cs
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 7 - The Dominion of Kings\obj\Debug\net8.0\Level 7 - The Dominion of Kings.csproj.CoreCompileInputs.cache
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 7 - The Dominion of Kings\obj\Debug\net8.0\Level 7 - The Dominion of Kings.dll
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 7 - The Dominion of Kings\obj\Debug\net8.0\refint\Level 7 - The Dominion of Kings.dll
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 7 - The Dominion of Kings\obj\Debug\net8.0\Level 7 - The Dominion of Kings.pdb
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 7 - The Dominion of Kings\obj\Debug\net8.0\Level 7 - The Dominion of Kings.genruntimeconfig.cache
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 7 - The Dominion of Kings\obj\Debug\net8.0\ref\Level 7 - The Dominion of Kings.dll

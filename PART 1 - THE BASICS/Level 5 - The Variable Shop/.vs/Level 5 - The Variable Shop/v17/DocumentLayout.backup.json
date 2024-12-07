@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Codding\\THE C# PLAYER\u0027S GUIDE\\PART 1 - THE BASICS\\Level 5 - The Variable Shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58FA6A91-7366-4315-B4CC-14999B9B54C6}|Level 5 - The Variable Shop.csproj|c:\\codding\\the c# player\u0027s guide\\part 1 - the basics\\level 5 - the variable shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58FA6A91-7366-4315-B4CC-14999B9B54C6}|Level 5 - The Variable Shop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Codding\\THE C# PLAYER\u0027S GUIDE\\PART 1 - THE BASICS\\Level 5 - The Variable Shop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Codding\\THE C# PLAYER\u0027S GUIDE\\PART 1 - THE BASICS\\Level 5 - The Variable Shop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:13:41.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

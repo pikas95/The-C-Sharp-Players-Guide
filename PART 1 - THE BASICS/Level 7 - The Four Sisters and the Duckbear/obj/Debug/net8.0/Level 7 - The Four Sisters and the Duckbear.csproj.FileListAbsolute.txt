@@ -1,0 +1,14 @@
+C:\Users\pikas\source\repos\Level 7 - The Four Sisters and the Duckbear\obj\Debug\net8.0\Level 7 - The Four Sisters and the Duckbear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pikas\source\repos\Level 7 - The Four Sisters and the Duckbear\obj\Debug\net8.0\Level 7 - The Four Sisters and the Duckbear.AssemblyInfoInputs.cache
+C:\Users\pikas\source\repos\Level 7 - The Four Sisters and the Duckbear\obj\Debug\net8.0\Level 7 - The Four Sisters and the Duckbear.AssemblyInfo.cs
+C:\Users\pikas\source\repos\Level 7 - The Four Sisters and the Duckbear\obj\Debug\net8.0\Level 7 - The Four Sisters and the Duckbear.csproj.CoreCompileInputs.cache
+C:\Users\pikas\source\repos\Level 7 - The Four Sisters and the Duckbear\bin\Debug\net8.0\Level 7 - The Four Sisters and the Duckbear.exe
+C:\Users\pikas\source\repos\Level 7 - The Four Sisters and the Duckbear\bin\Debug\net8.0\Level 7 - The Four Sisters and the Duckbear.deps.json
+C:\Users\pikas\source\repos\Level 7 - The Four Sisters and the Duckbear\bin\Debug\net8.0\Level 7 - The Four Sisters and the Duckbear.runtimeconfig.json
+C:\Users\pikas\source\repos\Level 7 - The Four Sisters and the Duckbear\bin\Debug\net8.0\Level 7 - The Four Sisters and the Duckbear.dll
+C:\Users\pikas\source\repos\Level 7 - The Four Sisters and the Duckbear\bin\Debug\net8.0\Level 7 - The Four Sisters and the Duckbear.pdb
+C:\Users\pikas\source\repos\Level 7 - The Four Sisters and the Duckbear\obj\Debug\net8.0\Level 7 - The Four Sisters and the Duckbear.dll
+C:\Users\pikas\source\repos\Level 7 - The Four Sisters and the Duckbear\obj\Debug\net8.0\refint\Level 7 - The Four Sisters and the Duckbear.dll
+C:\Users\pikas\source\repos\Level 7 - The Four Sisters and the Duckbear\obj\Debug\net8.0\Level 7 - The Four Sisters and the Duckbear.pdb
+C:\Users\pikas\source\repos\Level 7 - The Four Sisters and the Duckbear\obj\Debug\net8.0\Level 7 - The Four Sisters and the Duckbear.genruntimeconfig.cache
+C:\Users\pikas\source\repos\Level 7 - The Four Sisters and the Duckbear\obj\Debug\net8.0\ref\Level 7 - The Four Sisters and the Duckbear.dll

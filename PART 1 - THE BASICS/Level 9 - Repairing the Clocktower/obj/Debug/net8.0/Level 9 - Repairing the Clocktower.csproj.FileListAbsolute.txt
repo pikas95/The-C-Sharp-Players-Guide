@@ -1,0 +1,14 @@
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 9 - Repairing the Clocktower\bin\Debug\net8.0\Level 9 - Repairing the Clocktower.exe
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 9 - Repairing the Clocktower\bin\Debug\net8.0\Level 9 - Repairing the Clocktower.deps.json
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 9 - Repairing the Clocktower\bin\Debug\net8.0\Level 9 - Repairing the Clocktower.runtimeconfig.json
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 9 - Repairing the Clocktower\bin\Debug\net8.0\Level 9 - Repairing the Clocktower.dll
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 9 - Repairing the Clocktower\bin\Debug\net8.0\Level 9 - Repairing the Clocktower.pdb
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 9 - Repairing the Clocktower\obj\Debug\net8.0\Level 9 - Repairing the Clocktower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 9 - Repairing the Clocktower\obj\Debug\net8.0\Level 9 - Repairing the Clocktower.AssemblyInfoInputs.cache
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 9 - Repairing the Clocktower\obj\Debug\net8.0\Level 9 - Repairing the Clocktower.AssemblyInfo.cs
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 9 - Repairing the Clocktower\obj\Debug\net8.0\Level 9 - Repairing the Clocktower.csproj.CoreCompileInputs.cache
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 9 - Repairing the Clocktower\obj\Debug\net8.0\Level 9 - Repairing the Clocktower.dll
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 9 - Repairing the Clocktower\obj\Debug\net8.0\refint\Level 9 - Repairing the Clocktower.dll
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 9 - Repairing the Clocktower\obj\Debug\net8.0\Level 9 - Repairing the Clocktower.pdb
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 9 - Repairing the Clocktower\obj\Debug\net8.0\Level 9 - Repairing the Clocktower.genruntimeconfig.cache
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 9 - Repairing the Clocktower\obj\Debug\net8.0\ref\Level 9 - Repairing the Clocktower.dll

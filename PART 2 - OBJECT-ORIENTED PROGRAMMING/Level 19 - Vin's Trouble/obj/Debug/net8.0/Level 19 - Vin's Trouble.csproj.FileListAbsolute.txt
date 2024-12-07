@@ -1,0 +1,14 @@
+C:\Codding\THE C# PLAYER'S GUIDE\PART 2 - OBJECT-ORIENTED PROGRAMMING\Level 19 - Vin's Trouble\bin\Debug\net8.0\Level 19 - Vin's Trouble.exe
+C:\Codding\THE C# PLAYER'S GUIDE\PART 2 - OBJECT-ORIENTED PROGRAMMING\Level 19 - Vin's Trouble\bin\Debug\net8.0\Level 19 - Vin's Trouble.deps.json
+C:\Codding\THE C# PLAYER'S GUIDE\PART 2 - OBJECT-ORIENTED PROGRAMMING\Level 19 - Vin's Trouble\bin\Debug\net8.0\Level 19 - Vin's Trouble.runtimeconfig.json
+C:\Codding\THE C# PLAYER'S GUIDE\PART 2 - OBJECT-ORIENTED PROGRAMMING\Level 19 - Vin's Trouble\bin\Debug\net8.0\Level 19 - Vin's Trouble.dll
+C:\Codding\THE C# PLAYER'S GUIDE\PART 2 - OBJECT-ORIENTED PROGRAMMING\Level 19 - Vin's Trouble\bin\Debug\net8.0\Level 19 - Vin's Trouble.pdb
+C:\Codding\THE C# PLAYER'S GUIDE\PART 2 - OBJECT-ORIENTED PROGRAMMING\Level 19 - Vin's Trouble\obj\Debug\net8.0\Level 19 - Vin's Trouble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codding\THE C# PLAYER'S GUIDE\PART 2 - OBJECT-ORIENTED PROGRAMMING\Level 19 - Vin's Trouble\obj\Debug\net8.0\Level 19 - Vin's Trouble.AssemblyInfoInputs.cache
+C:\Codding\THE C# PLAYER'S GUIDE\PART 2 - OBJECT-ORIENTED PROGRAMMING\Level 19 - Vin's Trouble\obj\Debug\net8.0\Level 19 - Vin's Trouble.AssemblyInfo.cs
+C:\Codding\THE C# PLAYER'S GUIDE\PART 2 - OBJECT-ORIENTED PROGRAMMING\Level 19 - Vin's Trouble\obj\Debug\net8.0\Level 19 - Vin's Trouble.csproj.CoreCompileInputs.cache
+C:\Codding\THE C# PLAYER'S GUIDE\PART 2 - OBJECT-ORIENTED PROGRAMMING\Level 19 - Vin's Trouble\obj\Debug\net8.0\Level 19 - Vin's Trouble.dll
+C:\Codding\THE C# PLAYER'S GUIDE\PART 2 - OBJECT-ORIENTED PROGRAMMING\Level 19 - Vin's Trouble\obj\Debug\net8.0\refint\Level 19 - Vin's Trouble.dll
+C:\Codding\THE C# PLAYER'S GUIDE\PART 2 - OBJECT-ORIENTED PROGRAMMING\Level 19 - Vin's Trouble\obj\Debug\net8.0\Level 19 - Vin's Trouble.pdb
+C:\Codding\THE C# PLAYER'S GUIDE\PART 2 - OBJECT-ORIENTED PROGRAMMING\Level 19 - Vin's Trouble\obj\Debug\net8.0\Level 19 - Vin's Trouble.genruntimeconfig.cache
+C:\Codding\THE C# PLAYER'S GUIDE\PART 2 - OBJECT-ORIENTED PROGRAMMING\Level 19 - Vin's Trouble\obj\Debug\net8.0\ref\Level 19 - Vin's Trouble.dll

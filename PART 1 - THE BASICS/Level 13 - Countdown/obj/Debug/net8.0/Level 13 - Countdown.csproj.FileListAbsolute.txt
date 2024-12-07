@@ -1,0 +1,14 @@
+C:\Users\pikas\source\repos\Level 13 - Countdown\obj\Debug\net8.0\Level 13 - Countdown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pikas\source\repos\Level 13 - Countdown\obj\Debug\net8.0\Level 13 - Countdown.AssemblyInfoInputs.cache
+C:\Users\pikas\source\repos\Level 13 - Countdown\obj\Debug\net8.0\Level 13 - Countdown.AssemblyInfo.cs
+C:\Users\pikas\source\repos\Level 13 - Countdown\obj\Debug\net8.0\Level 13 - Countdown.csproj.CoreCompileInputs.cache
+C:\Users\pikas\source\repos\Level 13 - Countdown\bin\Debug\net8.0\Level 13 - Countdown.exe
+C:\Users\pikas\source\repos\Level 13 - Countdown\bin\Debug\net8.0\Level 13 - Countdown.deps.json
+C:\Users\pikas\source\repos\Level 13 - Countdown\bin\Debug\net8.0\Level 13 - Countdown.runtimeconfig.json
+C:\Users\pikas\source\repos\Level 13 - Countdown\bin\Debug\net8.0\Level 13 - Countdown.dll
+C:\Users\pikas\source\repos\Level 13 - Countdown\bin\Debug\net8.0\Level 13 - Countdown.pdb
+C:\Users\pikas\source\repos\Level 13 - Countdown\obj\Debug\net8.0\Level 13 - Countdown.dll
+C:\Users\pikas\source\repos\Level 13 - Countdown\obj\Debug\net8.0\refint\Level 13 - Countdown.dll
+C:\Users\pikas\source\repos\Level 13 - Countdown\obj\Debug\net8.0\Level 13 - Countdown.pdb
+C:\Users\pikas\source\repos\Level 13 - Countdown\obj\Debug\net8.0\Level 13 - Countdown.genruntimeconfig.cache
+C:\Users\pikas\source\repos\Level 13 - Countdown\obj\Debug\net8.0\ref\Level 13 - Countdown.dll

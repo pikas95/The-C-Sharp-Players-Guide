@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Codding\\THE C# PLAYER\u0027S GUIDE\\PART 1 - THE BASICS\\Level 9 - Watchtower\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0C603B-D917-4B4F-8D16-E3305F1CA50B}|Level 9 - Watchtower.csproj|c:\\codding\\the c# player\u0027s guide\\part 1 - the basics\\level 9 - watchtower\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B0C603B-D917-4B4F-8D16-E3305F1CA50B}|Level 9 - Watchtower.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Codding\\THE C# PLAYER\u0027S GUIDE\\PART 1 - THE BASICS\\Level 9 - Watchtower\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Codding\\THE C# PLAYER\u0027S GUIDE\\PART 1 - THE BASICS\\Level 9 - Watchtower\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T17:17:35.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 4 - The Thing Namer 3000\bin\Debug\net8.0\Level 4 - The Thing Namer 3000.exe
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 4 - The Thing Namer 3000\bin\Debug\net8.0\Level 4 - The Thing Namer 3000.deps.json
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 4 - The Thing Namer 3000\bin\Debug\net8.0\Level 4 - The Thing Namer 3000.runtimeconfig.json
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 4 - The Thing Namer 3000\bin\Debug\net8.0\Level 4 - The Thing Namer 3000.dll
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 4 - The Thing Namer 3000\bin\Debug\net8.0\Level 4 - The Thing Namer 3000.pdb
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 4 - The Thing Namer 3000\obj\Debug\net8.0\Level 4 - The Thing Namer 3000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 4 - The Thing Namer 3000\obj\Debug\net8.0\Level 4 - The Thing Namer 3000.AssemblyInfoInputs.cache
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 4 - The Thing Namer 3000\obj\Debug\net8.0\Level 4 - The Thing Namer 3000.AssemblyInfo.cs
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 4 - The Thing Namer 3000\obj\Debug\net8.0\Level 4 - The Thing Namer 3000.csproj.CoreCompileInputs.cache
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 4 - The Thing Namer 3000\obj\Debug\net8.0\Level 4 - The Thing Namer 3000.dll
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 4 - The Thing Namer 3000\obj\Debug\net8.0\refint\Level 4 - The Thing Namer 3000.dll
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 4 - The Thing Namer 3000\obj\Debug\net8.0\Level 4 - The Thing Namer 3000.pdb
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 4 - The Thing Namer 3000\obj\Debug\net8.0\Level 4 - The Thing Namer 3000.genruntimeconfig.cache
+C:\Codding\THE C# PLAYER'S GUIDE\PART 1 - THE BASICS\Level 4 - The Thing Namer 3000\obj\Debug\net8.0\ref\Level 4 - The Thing Namer 3000.dll

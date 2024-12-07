@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Level 4 - The Thing Namer 3000/1.0.0": {
+        "runtime": {
+          "Level 4 - The Thing Namer 3000.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Level 4 - The Thing Namer 3000/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

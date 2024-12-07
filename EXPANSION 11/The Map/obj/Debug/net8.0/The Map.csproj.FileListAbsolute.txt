@@ -1,0 +1,14 @@
+C:\Codding\THE C# PLAYER'S GUIDE\EXPANSION 11\The Map\bin\Debug\net8.0\The Map.exe
+C:\Codding\THE C# PLAYER'S GUIDE\EXPANSION 11\The Map\bin\Debug\net8.0\The Map.deps.json
+C:\Codding\THE C# PLAYER'S GUIDE\EXPANSION 11\The Map\bin\Debug\net8.0\The Map.runtimeconfig.json
+C:\Codding\THE C# PLAYER'S GUIDE\EXPANSION 11\The Map\bin\Debug\net8.0\The Map.dll
+C:\Codding\THE C# PLAYER'S GUIDE\EXPANSION 11\The Map\bin\Debug\net8.0\The Map.pdb
+C:\Codding\THE C# PLAYER'S GUIDE\EXPANSION 11\The Map\obj\Debug\net8.0\The Map.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codding\THE C# PLAYER'S GUIDE\EXPANSION 11\The Map\obj\Debug\net8.0\The Map.AssemblyInfoInputs.cache
+C:\Codding\THE C# PLAYER'S GUIDE\EXPANSION 11\The Map\obj\Debug\net8.0\The Map.AssemblyInfo.cs
+C:\Codding\THE C# PLAYER'S GUIDE\EXPANSION 11\The Map\obj\Debug\net8.0\The Map.csproj.CoreCompileInputs.cache
+C:\Codding\THE C# PLAYER'S GUIDE\EXPANSION 11\The Map\obj\Debug\net8.0\The Map.dll
+C:\Codding\THE C# PLAYER'S GUIDE\EXPANSION 11\The Map\obj\Debug\net8.0\refint\The Map.dll
+C:\Codding\THE C# PLAYER'S GUIDE\EXPANSION 11\The Map\obj\Debug\net8.0\The Map.pdb
+C:\Codding\THE C# PLAYER'S GUIDE\EXPANSION 11\The Map\obj\Debug\net8.0\The Map.genruntimeconfig.cache
+C:\Codding\THE C# PLAYER'S GUIDE\EXPANSION 11\The Map\obj\Debug\net8.0\ref\The Map.dll

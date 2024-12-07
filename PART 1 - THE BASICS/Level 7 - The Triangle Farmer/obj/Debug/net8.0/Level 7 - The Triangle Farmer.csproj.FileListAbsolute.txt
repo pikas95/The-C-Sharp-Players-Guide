@@ -1,0 +1,14 @@
+C:\Users\pikas\source\repos\Level 7 - The Triangle Farmer\bin\Debug\net8.0\Level 7 - The Triangle Farmer.exe
+C:\Users\pikas\source\repos\Level 7 - The Triangle Farmer\bin\Debug\net8.0\Level 7 - The Triangle Farmer.deps.json
+C:\Users\pikas\source\repos\Level 7 - The Triangle Farmer\bin\Debug\net8.0\Level 7 - The Triangle Farmer.runtimeconfig.json
+C:\Users\pikas\source\repos\Level 7 - The Triangle Farmer\bin\Debug\net8.0\Level 7 - The Triangle Farmer.dll
+C:\Users\pikas\source\repos\Level 7 - The Triangle Farmer\bin\Debug\net8.0\Level 7 - The Triangle Farmer.pdb
+C:\Users\pikas\source\repos\Level 7 - The Triangle Farmer\obj\Debug\net8.0\Level 7 - The Triangle Farmer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pikas\source\repos\Level 7 - The Triangle Farmer\obj\Debug\net8.0\Level 7 - The Triangle Farmer.AssemblyInfoInputs.cache
+C:\Users\pikas\source\repos\Level 7 - The Triangle Farmer\obj\Debug\net8.0\Level 7 - The Triangle Farmer.AssemblyInfo.cs
+C:\Users\pikas\source\repos\Level 7 - The Triangle Farmer\obj\Debug\net8.0\Level 7 - The Triangle Farmer.csproj.CoreCompileInputs.cache
+C:\Users\pikas\source\repos\Level 7 - The Triangle Farmer\obj\Debug\net8.0\Level 7 - The Triangle Farmer.dll
+C:\Users\pikas\source\repos\Level 7 - The Triangle Farmer\obj\Debug\net8.0\refint\Level 7 - The Triangle Farmer.dll
+C:\Users\pikas\source\repos\Level 7 - The Triangle Farmer\obj\Debug\net8.0\Level 7 - The Triangle Farmer.pdb
+C:\Users\pikas\source\repos\Level 7 - The Triangle Farmer\obj\Debug\net8.0\Level 7 - The Triangle Farmer.genruntimeconfig.cache
+C:\Users\pikas\source\repos\Level 7 - The Triangle Farmer\obj\Debug\net8.0\ref\Level 7 - The Triangle Farmer.dll
